@@ -1,6 +1,6 @@
 # alpine-linux-dev-setup-script
 
-### I like to develop software on Proxmox VMs or LXC containers, specifically on Alpine Linux, and decided to create a script to baseline them for development.
+### I enjoy developing software on Proxmox VMs or LXC containers, specifically on Alpine Linux, and decided to create a script to baseline them for development.
 
 ### The script performs the following:
 
