@@ -13,7 +13,7 @@
 
 ## To use the script
 
-* make sure you can `ssh` into the target VM or LXC
+* make sure you can `ssh` into the target VM or LXC, then `exit`
 * click the green "code" button above, then click the 'copy' icon under HTTPS to copy the repo's URL
 * on your terminal run `git clone <repo-URL>` [paste the copied URL]
 * `cd` into the `alpine-linux-dev-setup-script` directory
