@@ -17,6 +17,7 @@
 * click the green "code" button above, then click the 'copy' icon under HTTPS to copy the repo's URL
 * on your terminal run `git clone <repo-URL>` [paste the copied URL]
 * `cd` into the `alpine-linux-dev-setup-script` directory
+* [optional] run `nano setup.sh` and edit as needed, then save and exit
 * run `scp setup.sh <user>@<target-ip>:./setup.sh` [this copies the file to the VM/LXC's root directory]
 * `ssh` to the VM/LXC
 * run `chmod +x setup.sh` to change the file permissions
