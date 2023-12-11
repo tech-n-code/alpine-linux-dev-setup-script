@@ -13,7 +13,7 @@ rc-service docker start
 
 # Install and configure qemu-guest-agent
 # Only needed for Proxmox VMs
-# Comment lines 16 thru 18 if setting up an LXC
+# Comment the next 3 lines if setting up an LXC
 apk --no-cache add qemu-guest-agent
 rc-update add qemu-guest-agent
 rc-service qemu-guest-agent start
